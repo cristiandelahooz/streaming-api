@@ -30,7 +30,7 @@ Welcome to the **Streaming API** project! This API is designed to simulate a str
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/SaratrasV/streaming-api.git
+    git clone https://github.com/cristiandelahooz/streaming-api.git
     ```
 
 2. Navigate to the project directory:
@@ -87,7 +87,7 @@ Welcome to the **Streaming API** project! This API is designed to simulate a str
 
 ## 👨‍💻 Author
 
-- **Cristian de la Hoz** - [GitHub](https://github.com/SaratrasV)
+- **Cristian de la Hoz** - [GitHub](https://github.com/cristiandelahooz)
 
 ## 🤝 Contributing
 
